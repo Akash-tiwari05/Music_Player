@@ -27,12 +27,12 @@ A simple and responsive music player created using HTML, CSS, and JavaScript. It
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/music-player.git
+    git clone https://github.com/yourusername/Music_Player.git
     ```
 
 2. **Navigate into the directory**:
     ```bash
-    cd music-player
+    cd Music_Player
     ```
 
 3. **Open `index.html`** in your browser to run the player.
